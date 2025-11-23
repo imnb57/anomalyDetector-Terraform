@@ -1,0 +1,6 @@
+# Terraform local files
+.terraform/
+*.tfstate
+*.tfstate.backup
+# Terraform providers
+hashicorp/
